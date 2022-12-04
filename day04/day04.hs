@@ -1,7 +1,6 @@
 module Main where
 
 import Data.List (isInfixOf, isSubsequenceOf)
-import Debug.Trace (trace)
 
 type Assignment = (Int, Int)
 type AssignmentPair = (Assignment, Assignment)
